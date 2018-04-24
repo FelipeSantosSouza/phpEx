@@ -1,0 +1,5 @@
+<?php
+
+//muito simples
+
+?>
