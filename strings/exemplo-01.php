@@ -14,6 +14,8 @@
 	echo 'Felipe $nome2';
 	echo "Felipe $nome2";
 
+	//interpolação de variaveis '' so texto "" mostra as variaveis
+
 
 
 ?>
