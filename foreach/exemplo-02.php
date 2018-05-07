@@ -3,7 +3,7 @@
 	<input type="text" name="nome">
 	<input type="date" name="nascimento">
 	<input type="submit" value="OK">
-
+i98u
 	
 
 </form>
